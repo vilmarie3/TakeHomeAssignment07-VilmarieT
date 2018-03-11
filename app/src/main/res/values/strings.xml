@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geography with Vilmz</string>
+    <string name="trueButton">TRUE</string>
+    <string name="falseButton">FALSE</string>
+    <string name="nextButton">NEXT</string>
+    <string name="cheatButton">Cheat!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="Answer">Answer</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="judgement_toast">Your momma is wagging her finger at you right now</string>
+    <string name="prev_button">PREV</string>
+    <string name="question_puerto_rico">People born in Puerto Rico are US citizens.</string>
+    <string name="question_spain">Barcelona is the capital of Spain.</string>
+    <string name="question_south_america">The largest (in area) South American country is Panama.</string>
+    <string name="question_africa">Madagascar is an island east of the main African land mass.</string>
+    <string name="question_US">The closest US state to Africa is Maine.</string>
+</resources>
